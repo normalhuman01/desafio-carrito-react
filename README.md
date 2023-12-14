@@ -1,5 +1,5 @@
-## Desafio: Criando um hook de carrinho de compras
+## Challenge: Creating a shopping cart hook
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse desafio, você deverá criar um hook para gerenciar um carrinho de compras.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this challenge, you must create a hook to manage a shopping cart.
 </p>
